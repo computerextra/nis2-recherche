@@ -2,6 +2,9 @@
 
 Das BSI hat eine ["Prüfung"](https://betroffenheitspruefung-nis-2.bsi.de/) zur Verfügung gestellt. Hier können Unternehmen selbst schauen, ob sie Betroffen sind.
 
+> [!NOTE]
+> Die NIS-2-Betroffenheitsprüfung dient als automatische Orientierungshilfe auf Grundlage von Eigenangaben, deren Ergebnis nicht rechtlich bindend ist. Die NIS-2-Betroffenheitsprüfung ersetzt die Prüfung zur Selbst-Identifizierung nicht und hat für eventuelle Verfahren keine Indizwirkung.
+
 Vorraussetzung:
 
 - Unternehmen in einer der [Sektoren](#sektoren)
@@ -161,11 +164,11 @@ Vorraussetzung:
 | Herstellung von Medizinprodukten und In-vitro-Diagnostika                            | - Einrichtungen, die Medizinprodukte herstellen                                                                                  |
 |                                                                                      | - Einrichtungen, die In-vitro-Diagnostika herstellen                                                                             |
 |                                                                                      | - außer Einrichtungen aus Anhang I, die kritische Medizinprodukte für Notlagen im Bereich der öffentlichen Gesundheit herstellen |
-| Herstellung von Datenverarbeitungsgeräten, elektronischen und optischen Erzeugnissen | - Unternehmen, die in diesem Wirtschaftszweig gemäß [NACE](NACE.md) Rev. 2 tätig sind                                            |
-| Herstellung von elektrischen Ausrüstungen                                            | - Unternehmen, die in diesem Wirtschaftszweig gemäß [NACE](NACE.md) Rev. 2 tätig sind                                            |
-| Maschinenbau                                                                         | - Unternehmen, die in diesem Wirtschaftszweig gemäß [NACE](NACE.md) Rev. 2 tätig sind                                            |
-| Herstellung von Kraftwagen und Kraftwagenteilen                                      | - Unternehmen, die in diesem Wirtschaftszweig gemäß [NACE](NACE.md) Rev. 2 tätig sind                                            |
-| sonstiger Fahrzeugbau                                                                | - Unternehmen, die in diesem Wirtschaftszweig gemäß [NACE](NACE.md) Rev. 2 tätig sind                                            |
+| Herstellung von Datenverarbeitungsgeräten, elektronischen und optischen Erzeugnissen | - Unternehmen, die in diesem Wirtschaftszweig gemäß [NACE Rev. 2](NACE.md) tätig sind                                            |
+| Herstellung von elektrischen Ausrüstungen                                            | - Unternehmen, die in diesem Wirtschaftszweig gemäß [NACE Rev. 2](NACE.md) tätig sind                                            |
+| Maschinenbau                                                                         | - Unternehmen, die in diesem Wirtschaftszweig gemäß [NACE Rev. 2](NACE.md) tätig sind                                            |
+| Herstellung von Kraftwagen und Kraftwagenteilen                                      | - Unternehmen, die in diesem Wirtschaftszweig gemäß [NACE Rev. 2](NACE.md) tätig sind                                            |
+| sonstiger Fahrzeugbau                                                                | - Unternehmen, die in diesem Wirtschaftszweig gemäß [NACE Rev. 2](NACE.md) tätig sind                                            |
 
 #### Anbieter digitaler Dienste
 

@@ -15,6 +15,21 @@ Es wird aktuell vermuted, dass das Gesetz (NIS2UmsuCG) _nicht_ bis um 17.10.2024
 
 <!-- TODO: Artikel -->
 
+- Einführung eines Incident Managements: Monitoring, Bewertung, Reaktion und Behebung von Sicherheitsvorfällen
+- Einführung eines Business Continuity Managements (BCM): Backup-Management, Widerherstellung, Krisenmanagement
+- Einführung eines Risikomanagements: insbesondere rund um Cybersicherheit, Sicherheit der Informationssysteme und Sicherheit in der Lieferkette
+- Ausarbeitung von Konzepten und Verfahren für den Einsatz von Kryptografie und Verschlüsselung
+- Einrichtung einer Multi-Faktor-Authentifizierung oder kontinuierlicher Authentifizierung
+- Umsetzung von Maßnahmen der "Cyberhygiene": z. B. regelmäßige Updates, Mitarbeiter-Schulungen zur Cybersicherheit
+
+## Was IT-Dienstleister und Fachhändler über NIS2 wissen sollten
+
+NIS2 bei den Kunden rechtzeitig umzusetzen, ist eine Herausforderung – und eine Chance. Systemhäuser und Fachhändler gehen mit ihrer eigenen Expertise für die IT-Sicherheit bei der Beratung ihrer Kunden voran und sorgen für den notwendigen Schutz.
+
+Unter bestimmten Voraussetzungen können IT-Dienstleister außerdem selbst in den Geltungsbereich der Richtlinie fallen. Welche Aspekte sind dafür von Bedeutung?
+
+In einem [Whitepaper](<!-- TODO: Link to File -->) haben wir (Securepoint) die wichtigsten Informationen zu NIS2 zusammengestellt. Weitere Informationen vermittelt zudem eine Präsentation, die im Rahmen eines Webinars für IT-Dienstleister stattgefunden hat.
+
 ## Was müssen von NIS-2 betroffene Unternehmen und Organisationen tun?
 
 ### Maßnahmen zum Risikomanagement für Cybersicherheit
