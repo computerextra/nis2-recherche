@@ -17,6 +17,8 @@
 - [Gesetzes Entwurf](https://www.bmi.bund.de/SharedDocs/gesetzgebungsverfahren/DE/Downloads/kabinettsfassung/CI1/nis2-regierungsentwurf.pdf?__blob=publicationFile&v=1)
 - [Selbstprüfung BSI](https://betroffenheitspruefung-nis-2.bsi.de/)
 - [Entscheidungsbaum der NIS-2-Betroffenenprüfung des BSI (PDF)](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/NIS-2/nis-2-betroffenheit-entscheidungsbaum.pdf?__blob=publicationFile&v=9)
+- [NIS2: Ein Mindestniveau für die IT-Sicherheit in Europa (PDF)](/files/securepoint-nis2-whitepaper.pdf)
+- [Richtlinie über Maßnahmen für ein hohes gemeinsames Cybersicherheitsniveau in der Union (PDF)](/files/securepoint-webinar-praesentation-nis2-richtlinie.pdf)
 
 ## Inhalt
 
