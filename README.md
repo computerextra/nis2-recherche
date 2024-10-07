@@ -9,6 +9,8 @@
 > Erstellt: 07.10.2024\
 > Letztes Update: -
 
+![NIS2 Beispielbild](/img/nis.png)
+
 ## Downloads / Links
 
 - [Merkblatt NIS-2-Richtlinie (PDF) Quelle: G Data](https://www.gdata.de/fileadmin/web/de/documents/flyer/G_DATA_NIS2_Merkblatt.pdf)
