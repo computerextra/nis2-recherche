@@ -22,12 +22,12 @@ Es wird aktuell vermuted, dass das Gesetz (NIS2UmsuCG) _nicht_ bis um 17.10.2024
 (Art. 1 §30 im NIS2UmsuCG-Entwurf)
 
 Laut NIS2 müssen folgende Cybersecurity Maßnahmen umgesetzt werden:
-Wie viel genau **angemessen** ist, soll das Unternehmen nach einem [risikobasierten Ansatz](<!-- TODO: Link -->) selbst festlegen.
+Wie viel genau **angemessen** ist, soll das Unternehmen nach einem [risikobasierten Ansatz](Ansätze.md#risikobasierter-ansatz) selbst festlegen.
 
 - **Policies:** Konzepte für Risikoanalyse und Sicherheit für Informationssysteme
 - **Vorfallsbewältigung:** Erkennung, Analyse, Eindämmung und Reaktion auf Vorfälle
 - **Business Continuity:** Backup-Management und Wiederherstellung, Krisenmanagement
-- **Supply Chain:** [Sicherheit in der Lieferkette](<!-- TODO: Link -->)
+- **Supply Chain:** [Sicherheit in der Lieferkette](Sicherheit.md#supply-chain)
 - **Einkauf:** Sicherheit bei Erwerb, Entwicklung und Wartung der IT-Systeme, einschließlich Management und Offenlegung von Schwachstellen
 - **Wirksamkeit:** Bewertung der Wirksamkeit der Risikomanagementmaßnahmen
 - **Cyberhygiene, Schulung:** Cyberhygiene (z.B. Updates) und Schulungen in Cyber Security
@@ -48,7 +48,7 @@ Wie viel genau **angemessen** ist, soll das Unternehmen nach einem [risikobasier
 
 (Art. 1 § 32 im NIS2UmsuCG-Entwurf)
 
-[Erhebliche Sicherheitsvorfälle](<!-- TODO: Link -->) müssen der nationalen Behörde und gegebenenfalls dem Empfänger der eigenen Dienste gemeldet werden.
+[Erhebliche Sicherheitsvorfälle](Sicherheit.md#sicherheitsvorfall) müssen der nationalen Behörde und gegebenenfalls dem Empfänger der eigenen Dienste gemeldet werden.
 
 #### Fristen für die Meldung
 
