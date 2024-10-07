@@ -1,13 +1,13 @@
 # NIS 2 Richtlinie
 
 > [!IMPORTANT]
-> Autor: Johannes Kirchner
-> Firma: Computer Extra GmbH
-> E-Mail: [johannes.kirchner@computer-extra.de](mailto:johannes.kirchner@computer-extra.de)
+> Autor: Johannes Kirchner\
+> Firma: Computer Extra GmbH\
+> E-Mail: [johannes.kirchner@computer-extra.de](mailto:johannes.kirchner@computer-extra.de)\
 
 > [!NOTE]
-> Erstellt: 07.10.2024
-> Letztes Update: -
+> Erstellt: 07.10.2024\
+> Letztes Update: -\
 
 ## Gliederung
 
