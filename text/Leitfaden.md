@@ -23,6 +23,8 @@ Folgende Fragen stellen sich hier:
   - [Perfekt für den Notfall gerüstet mit einem Notfallplan](#perfekt-für-den-notfall-gerüstet-mit-einem-notfallplan)
     - [Auszug eines IT-Notfallplans](#auszug-eines-it-notfallplans)
   - [Pragmatische Vorgehensweise](#pragmatische-vorgehensweise)
+  - [Weitere Anforderungen durch NIS2](#weitere-anforderungen-durch-nis2)
+  - [Prävention statt Krise](#prävention-statt-krise)
 
 ## Einstieg ins Notfallmanagement
 
@@ -117,3 +119,27 @@ Das wird solange weitergeführt, bis für die wichtigsten Bereiche ein Notfallpl
 > Ein Notfallplan darf nicht nur ein Dokument sein, das in der Schublade verschwindet. Es muss regelmäßig durchgespielt, erprobt und angepasst werden.[^1]
 
 [^1]: Sven Hillebrecht, General Manager & ISMB ADLON
+
+Beim Notfallmanagement ist auf ein pragmatisches und praxisnahes Vorgehen zu achten.
+Doch: Der Aufwand ist und bleibt hoch und die Zeit durch NIS2 knapp.
+
+## Weitere Anforderungen durch NIS2
+
+Ein solides Notfallmanagement im IT-Bereich ist für jedes Unternehmen existenziell. Daneben erfordert NIS2 u.a. auch die Einrichtung eines Risikomanagements sowie regelmäßige Risikoanalysen. Apropos Risiken: Zu den häufigsten IT-Risiken gehören neben Ransomware-Attacken auf Denial of Service Attacken (DDoS), Supply-Chain-Attacken, Social-Engineering-Attacken sowie Schwachstellen in Cloud-Diensten und IoT-Geräten.
+
+Daher ist besonderer Fokus zu legen auf den:
+
+- Schutz der Endgeräte
+- Schutz der Identitäten und Konten
+- Schutz der Kommunikation
+- Schutz der Cloud Apps
+
+Zum präventiven Schutz ist der Einsatz von Security-Technologien unabdingbar.
+
+## Prävention statt Krise
+
+Die neue EU-Richtlinie NIS2 fördert und fordert Cybersicherheit auf breiter Ebene.
+
+1. Vorbereitung auf den Ernstfall: Ein solides Notfallmanagement etablieren. Bewährt hat sich hierbei ein pragmatisches, praxisnahes und schrittweises Vorgehen gemeinsam mit einem externen Partner.
+2. Nicht nur an den Notfall denken, sondern für umfassende präventive Maßnahmen sorgen.
+3. Ein solides und gleichzeitig pragmatisches Risikomanagement einsetzen. Regelmäßige Risikoanalysen durchführen, dabei auf die Dokumentation achten.

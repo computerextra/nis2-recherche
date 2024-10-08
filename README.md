@@ -7,7 +7,7 @@
 
 > [!NOTE]
 > Erstellt: 07.10.2024\
-> Letztes Update: 07.10.2024
+> Letztes Update: 08.10.2024
 
 ![NIS2 Beispielbild](/img/nis.png)
 
@@ -66,6 +66,15 @@
   - [Supply Chain](text/Sicherheit.md#supply-chain)
     - [Was bedeutet „Sicherheit in der Lieferkette“?](text/Sicherheit.md#was-bedeutet-sicherheit-in-der-lieferkette)
   - [Sicherheitsvorfall](text/Sicherheit.md#sicherheitsvorfall)
+- [Leitfaden Notfallmanagement](text/Ansätze.md)
+  - [Must-Haves für NIS2](text/Ansätze.md#must-haves-für-nis2)
+    - [Für den Ernstfall vorbereiten](text/Ansätze.md#für-den-ernstfall-vorbereiten)
+  - [Einstieg ins Notfallmanagement](text/Ansätze.md#einstieg-ins-notfallmanagement)
+  - [Perfekt für den Notfall gerüstet mit einem Notfallplan](text/Ansätze.md#perfekt-für-den-notfall-gerüstet-mit-einem-notfallplan)
+    - [Auszug eines IT-Notfallplans](text/Ansätze.md#auszug-eines-it-notfallplans)
+  - [Pragmatische Vorgehensweise](text/Ansätze.md#pragmatische-vorgehensweise)
+  - [Weitere Anforderungen durch NIS2](text/Ansätze.md#weitere-anforderungen-durch-nis2)
+  - [Prävention statt Krise](text/Ansätze.md#prävention-statt-krise)
 - [NACE Rev. 2](text/NACE.md)
   - [Statistische Systematik der Wirtschaftszweige in der Europäischen Gemeinschaft](text/NACE.md#statistische-systematik-der-wirtschaftszweige-in-der-europäischen-gemeinschaft)
   - [Hauptbetroffene Bereiche](text/NACE.md#hauptbetroffene-bereiche)
