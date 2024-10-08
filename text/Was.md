@@ -22,6 +22,10 @@ Es wird aktuell vermuted, dass das Gesetz (NIS2UmsuCG) _nicht_ bis um 17.10.2024
 - Einrichtung einer Multi-Faktor-Authentifizierung oder kontinuierlicher Authentifizierung
 - Umsetzung von Maßnahmen der "Cyberhygiene": z. B. regelmäßige Updates, Mitarbeiter-Schulungen zur Cybersicherheit
 
+### Weitere Maßnahmen
+
+Zudem muss ein Meldesystem etabliert werden, denn: Bei erheblichen Sicherheitsvorfällen sind Unternehmen verpflichtet, innerhalb von 24 Stunden ab Kenntnis eine Frühwarnung an das BSI (Bundesamt für Sicherheit in der Informationstechnik) zu leisten. Innerhalb von 72 Stunden ist ein ausführlicher Bericht mit Bewertung einzureichen und nach einem Monat ein Abschlussbericht inklusive Maßnahmen.
+
 ## Was IT-Dienstleister und Fachhändler über NIS2 wissen sollten
 
 NIS2 bei den Kunden rechtzeitig umzusetzen, ist eine Herausforderung – und eine Chance. Systemhäuser und Fachhändler gehen mit ihrer eigenen Expertise für die IT-Sicherheit bei der Beratung ihrer Kunden voran und sorgen für den notwendigen Schutz.

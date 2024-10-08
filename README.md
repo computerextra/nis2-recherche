@@ -19,6 +19,7 @@
 - [Entscheidungsbaum der NIS-2-Betroffenenprüfung des BSI (PDF)](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/NIS-2/nis-2-betroffenheit-entscheidungsbaum.pdf?__blob=publicationFile&v=9)
 - [NIS2: Ein Mindestniveau für die IT-Sicherheit in Europa (PDF)](/files/securepoint-nis2-whitepaper.pdf)
 - [Richtlinie über Maßnahmen für ein hohes gemeinsames Cybersicherheitsniveau in der Union (PDF)](/files/securepoint-webinar-praesentation-nis2-richtlinie.pdf)
+- [IT-Notfallmanagement (PDF)](/files/ADLON_Leitfaden_Notfallmanagement.pdf)
 
 ## Inhalt
 
@@ -26,6 +27,7 @@
   - [Was ist NIS-2?](text/Was.md#was-ist-nis-2)
   - [Wann tritt NIS-2 in Kraft?](text/Was.md#wann-tritt-nis-2-in-kraft)
   - [Wie fange ich mit der Umsetzung an?](text/Was.md#wie-fange-ich-mit-der-umsetzung-an)
+    - [Weitere Maßnahmen](text/Was.md#weitere-maßnahmen)
   - [Was IT-Dienstleister und Fachhändler über NIS2 wissen sollten](text/Was.md#was-it-dienstleister-und-fachhändler-über-nis2-wissen-sollten)
   - [Was müssen von NIS-2 betroffene Unternehmen und Organisationen tun?](text/Was.md#was-müssen-von-nis-2-betroffene-unternehmen-und-organisationen-tun)
     - [Maßnahmen zum Risikomanagement für Cybersicherheit](text/Was.md#maßnahmen-zum-risikomanagement-für-cybersicherheit)
@@ -95,3 +97,4 @@
 - [https://www.perplexity.ai/](https://www.perplexity.ai/)
 - [https://www.securepoint.de/fuer-partner/alles-zu-nis-2](https://www.securepoint.de/fuer-partner/alles-zu-nis-2)
 - [https://adlon.de/services/nis2-umsetzung/](https://adlon.de/services/nis2-umsetzung/)
+- [https://adlon.de/leitfaden-notfallmanagement/](https://adlon.de/leitfaden-notfallmanagement/)
