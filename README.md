@@ -551,9 +551,7 @@ Folgende Fragen stellen sich hier:
 - Warum lohnt sich gerade eine pragmatische Vorgehensweise? Auf was ist bei der Umsetzung zu achten?
 - Welche Maßnahmen sind präventiv notwendig?
 
-> Nur mit einem effektiven Notfallmanagement können Unternehmen während und nach eines Notfalls ihren Geschäftsbetrieb und ihre Existenz sicherstellen.[^3]
-
-[^3]: Sven Hillebrecht, General Manager & ISMB ADLON
+> Nur mit einem effektiven Notfallmanagement können Unternehmen während und nach eines Notfalls ihren Geschäftsbetrieb und ihre Existenz sicherstellen.[^2]
 
 ### Einstieg ins Notfallmanagement
 
