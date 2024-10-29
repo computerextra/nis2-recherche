@@ -7,7 +7,7 @@
 
 > [!NOTE]
 > Erstellt: 07.10.2024\
-> Letztes Update: 08.10.2024
+> Letztes Update: 29.10.2024
 
 ![NIS2 Beispielbild](/img/nis.png)
 
@@ -31,6 +31,7 @@
     - [Wann tritt NIS-2 in Kraft?](#wann-tritt-nis-2-in-kraft)
     - [Wie fange ich mit der Umsetzung an?](#wie-fange-ich-mit-der-umsetzung-an)
       - [Weitere Maßnahmen](#weitere-maßnahmen)
+    - [Software, die beim Umsetzen helfen kann](#software-die-beim-umsetzen-helfen-kann)
     - [Was IT-Dienstleister und Fachhändler über NIS2 wissen sollten](#was-it-dienstleister-und-fachhändler-über-nis2-wissen-sollten)
     - [Was müssen von NIS-2 betroffene Unternehmen und Organisationen tun?](#was-müssen-von-nis-2-betroffene-unternehmen-und-organisationen-tun)
       - [Maßnahmen zum Risikomanagement für Cybersicherheit](#maßnahmen-zum-risikomanagement-für-cybersicherheit)
@@ -123,6 +124,11 @@ Es wird aktuell vermuted, dass das Gesetz (NIS2UmsuCG) _nicht_ bis um 17.10.2024
 #### Weitere Maßnahmen
 
 Zudem muss ein Meldesystem etabliert werden, denn: Bei erheblichen Sicherheitsvorfällen sind Unternehmen verpflichtet, innerhalb von 24 Stunden ab Kenntnis eine Frühwarnung an das BSI (Bundesamt für Sicherheit in der Informationstechnik) zu leisten. Innerhalb von 72 Stunden ist ein ausführlicher Bericht mit Bewertung einzureichen und nach einem Monat ein Abschlussbericht inklusive Maßnahmen.
+
+### Software, die beim Umsetzen helfen kann
+
+Der Audatis Manager hat für NIS-2 ein Update erhalten. Die "Compliance + ISMS Erweiterung". Die kosten betragen 29€ netto pro Monat pro Mandant.
+Anbei ein [Überblick als PDF](/files/audatis_MANAGER_Vorstellung_Compliance_und_ISMS.pdf)
 
 ### Was IT-Dienstleister und Fachhändler über NIS2 wissen sollten
 
