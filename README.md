@@ -105,6 +105,7 @@
 >   - Neue PDF hinzugefügt (Gesetzentwurf)
 >   - Anordnung des Menüs angepasst.
 >   - Neuen Absatz für den Gesetzesentwurf erstellt
+>   - Quellen angepasst
 >     
 
 
@@ -725,3 +726,6 @@ Das kann ein wenig dauern, das Gesetz ist ein Buch mit 208 Seiten
 - [https://www.securepoint.de/fuer-partner/alles-zu-nis-2](https://www.securepoint.de/fuer-partner/alles-zu-nis-2)
 - [https://adlon.de/services/nis2-umsetzung/](https://adlon.de/services/nis2-umsetzung/)
 - [https://adlon.de/leitfaden-notfallmanagement/](https://adlon.de/leitfaden-notfallmanagement/)
+- [https://www.bmi.bund.de/SharedDocs/gesetzgebungsverfahren/DE/CI1/nis2umsucg.html](https://www.bmi.bund.de/SharedDocs/gesetzgebungsverfahren/DE/CI1/nis2umsucg.html)
+- [https://www.bmi.bund.de/SharedDocs/gesetzgebungsverfahren/DE/Downloads/kabinettsfassung/CI1/nis2-regierungsentwurf.pdf?__blob=publicationFile&v=2](https://www.bmi.bund.de/SharedDocs/gesetzgebungsverfahren/DE/Downloads/kabinettsfassung/CI1/nis2-regierungsentwurf.pdf?__blob=publicationFile&v=2)
+- [https://www.bsi.bund.de/DE/Das-BSI/Auftrag/Gesetze-und-Verordnungen/NIS-Richtlinien/nis-richtlinie_node.html](https://www.bsi.bund.de/DE/Das-BSI/Auftrag/Gesetze-und-Verordnungen/NIS-Richtlinien/nis-richtlinie_node.html)
