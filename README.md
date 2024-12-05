@@ -123,8 +123,8 @@
 
 ## Aktueller Stand
 
-Stand: 5.12.2024
 ![Umsetzungsstand](/img/Umsetzungsstand.png)
+Stand: 5.12.2024
 
 ## Was ist das Eigentlich?
 
