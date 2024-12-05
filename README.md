@@ -1,14 +1,18 @@
 # NIS 2 Richtlinie
 
+### Bearbeitungsstand
+> [!NOTE]
+> Erstellt: 07.10.2024\
+> Letztes Update: 05.12.2024
 ![NIS2 Beispielbild](/img/nis.png)
 
 ## Inhalt
 
 - [NIS 2 Richtlinie](#nis-2-richtlinie)
+    - [Bearbeitungsstand](#bearbeitungsstand)
   - [Inhalt](#inhalt)
   - [Sidenotes](#sidenotes)
     - [Ersteller](#ersteller)
-    - [Bearbeitungsstand](#bearbeitungsstand)
     - [Changelog](#changelog)
   - [Downloads / Links](#downloads--links)
   - [Aktueller Stand](#aktueller-stand)
@@ -91,10 +95,7 @@
 > Firma: Computer Extra GmbH\
 > E-Mail: [johannes.kirchner@computer-extra.de](mailto:johannes.kirchner@computer-extra.de)
 
-### Bearbeitungsstand
-> [!NOTE]
-> Erstellt: 07.10.2024\
-> Letztes Update: 05.12.2024
+
 
 ### Changelog
 > [!TIP]
