@@ -104,6 +104,7 @@
 >   - Aktuellen Umsetzungsstand hinzugefügt.
 >   - Neue PDF hinzugefügt (Gesetzentwurf)
 >   - Anordnung des Menüs angepasst.
+>   - Neuen Absatz für den Gesetzesentwurf erstellt
 >     
 
 
