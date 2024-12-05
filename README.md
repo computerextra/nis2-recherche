@@ -7,7 +7,11 @@
 
 > [!NOTE]
 > Erstellt: 07.10.2024\
-> Letztes Update: 29.10.2024
+> Letztes Update: 05.12.2024
+
+> [!TIP]
+> Changelog:
+> 5.12.2024: Neue PDF hinzugefügt (NIS2: Ihr Wegweiser zur Compliance)
 
 ![NIS2 Beispielbild](/img/nis.png)
 
@@ -20,6 +24,7 @@
 - [NIS2: Ein Mindestniveau für die IT-Sicherheit in Europa (PDF)](/files/securepoint-nis2-whitepaper.pdf)
 - [Richtlinie über Maßnahmen für ein hohes gemeinsames Cybersicherheitsniveau in der Union (PDF)](/files/securepoint-webinar-praesentation-nis2-richtlinie.pdf)
 - [IT-Notfallmanagement (PDF)](/files/ADLON_Leitfaden_Notfallmanagement.pdf)
+- [NIS2: Ihr Wegweiser zur Compliance. (PDF)](/files/An9S89GHrs68KZlxs9mttkO7p7_B46JuY7pwXPffTwqhwctqIRME6Romx3wMELDTlydb-THIJQD1ZLkT53zeEQL-18yBAmxOxH3i5sQUD4upS_sXuXZ7i90kmXDGdA.pdf)
 
 ## Inhalt
 
