@@ -4,6 +4,8 @@
 > [!NOTE]
 > Erstellt: 07.10.2024\
 > Letztes Update: 05.12.2024
+
+
 ![NIS2 Beispielbild](/img/nis.png)
 
 ## Inhalt
