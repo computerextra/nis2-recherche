@@ -81,6 +81,7 @@
     - [Pragmatische Vorgehensweise](#pragmatische-vorgehensweise)
     - [Weitere Anforderungen durch NIS2](#weitere-anforderungen-durch-nis2)
     - [Prävention statt Krise](#prävention-statt-krise)
+  - [Ein Laienhafter Versuch](#ein-laienhafter-versuch)
   - [Quellen](#quellen)
 
 ## Sidenotes
@@ -705,6 +706,11 @@ Die neue EU-Richtlinie NIS2 fördert und fordert Cybersicherheit auf breiter Ebe
 1. Vorbereitung auf den Ernstfall: Ein solides Notfallmanagement etablieren. Bewährt hat sich hierbei ein pragmatisches, praxisnahes und schrittweises Vorgehen gemeinsam mit einem externen Partner.
 2. Nicht nur an den Notfall denken, sondern für umfassende präventive Maßnahmen sorgen.
 3. Ein solides und gleichzeitig pragmatisches Risikomanagement einsetzen. Regelmäßige Risikoanalysen durchführen, dabei auf die Dokumentation achten.
+
+## Ein Laienhafter Versuch
+Hier werden ich versuchen den aktuellen Gesetzesentwurf zu verstehen und zusammenzufassen.
+
+Das kann ein wenig dauern, das Gesetz ist ein Buch mit 208 Seiten
 
 ## Quellen
 
