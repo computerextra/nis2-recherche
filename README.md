@@ -1,36 +1,17 @@
 # NIS 2 Richtlinie
 
-> [!IMPORTANT]
-> Autor: Johannes Kirchner\
-> Firma: Computer Extra GmbH\
-> E-Mail: [johannes.kirchner@computer-extra.de](mailto:johannes.kirchner@computer-extra.de)
-
-> [!NOTE]
-> Erstellt: 07.10.2024\
-> Letztes Update: 05.12.2024
-
-> [!TIP]
-> Changelog:
-> 5.12.2024: Neue PDF hinzugefügt (NIS2: Ihr Wegweiser zur Compliance)
-
 ![NIS2 Beispielbild](/img/nis.png)
-
-## Downloads / Links
-
-- [Merkblatt NIS-2-Richtlinie (PDF) Quelle: G Data](https://www.gdata.de/fileadmin/web/de/documents/flyer/G_DATA_NIS2_Merkblatt.pdf)
-- [Gesetzes Entwurf](https://www.bmi.bund.de/SharedDocs/gesetzgebungsverfahren/DE/Downloads/kabinettsfassung/CI1/nis2-regierungsentwurf.pdf?__blob=publicationFile&v=1)
-- [Selbstprüfung BSI](https://betroffenheitspruefung-nis-2.bsi.de/)
-- [Entscheidungsbaum der NIS-2-Betroffenenprüfung des BSI (PDF)](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/NIS-2/nis-2-betroffenheit-entscheidungsbaum.pdf?__blob=publicationFile&v=9)
-- [NIS2: Ein Mindestniveau für die IT-Sicherheit in Europa (PDF)](/files/securepoint-nis2-whitepaper.pdf)
-- [Richtlinie über Maßnahmen für ein hohes gemeinsames Cybersicherheitsniveau in der Union (PDF)](/files/securepoint-webinar-praesentation-nis2-richtlinie.pdf)
-- [IT-Notfallmanagement (PDF)](/files/ADLON_Leitfaden_Notfallmanagement.pdf)
-- [NIS2: Ihr Wegweiser zur Compliance. (PDF)](/files/An9S89GHrs68KZlxs9mttkO7p7_B46JuY7pwXPffTwqhwctqIRME6Romx3wMELDTlydb-THIJQD1ZLkT53zeEQL-18yBAmxOxH3i5sQUD4upS_sXuXZ7i90kmXDGdA.pdf)
 
 ## Inhalt
 
 - [NIS 2 Richtlinie](#nis-2-richtlinie)
-  - [Downloads / Links](#downloads--links)
   - [Inhalt](#inhalt)
+  - [Sidenotes](#sidenotes)
+    - [Ersteller](#ersteller)
+    - [Bearbeitungsstand](#bearbeitungsstand)
+    - [Changelog](#changelog)
+  - [Downloads / Links](#downloads--links)
+  - [Aktueller Stand](#aktueller-stand)
   - [Was ist das Eigentlich?](#was-ist-das-eigentlich)
     - [Was ist NIS-2?](#was-ist-nis-2)
     - [Wann tritt NIS-2 in Kraft?](#wann-tritt-nis-2-in-kraft)
@@ -101,6 +82,49 @@
     - [Weitere Anforderungen durch NIS2](#weitere-anforderungen-durch-nis2)
     - [Prävention statt Krise](#prävention-statt-krise)
   - [Quellen](#quellen)
+
+## Sidenotes
+### Ersteller
+> [!IMPORTANT]
+> Autor: Johannes Kirchner\
+> Firma: Computer Extra GmbH\
+> E-Mail: [johannes.kirchner@computer-extra.de](mailto:johannes.kirchner@computer-extra.de)
+
+### Bearbeitungsstand
+> [!NOTE]
+> Erstellt: 07.10.2024\
+> Letztes Update: 05.12.2024
+
+### Changelog
+> [!TIP]
+> Changelog:
+>  5.12.2024: 
+>   - Neue PDF hinzugefügt (NIS2: Ihr Wegweiser zur Compliance)
+>   - Aktuellen Umsetzungsstand hinzugefügt.
+>   - Neue PDF hinzugefügt (Gesetzentwurf)
+>   - Anordnung des Menüs angepasst.
+>     
+
+
+
+## Downloads / Links
+
+- [Merkblatt NIS-2-Richtlinie (PDF) Quelle: G Data](https://www.gdata.de/fileadmin/web/de/documents/flyer/G_DATA_NIS2_Merkblatt.pdf)
+- [Gesetzes Entwurf](https://www.bmi.bund.de/SharedDocs/gesetzgebungsverfahren/DE/Downloads/kabinettsfassung/CI1/nis2-regierungsentwurf.pdf?__blob=publicationFile&v=1)
+- [Selbstprüfung BSI](https://betroffenheitspruefung-nis-2.bsi.de/)
+- [Entscheidungsbaum der NIS-2-Betroffenenprüfung des BSI (PDF)](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/NIS-2/nis-2-betroffenheit-entscheidungsbaum.pdf?__blob=publicationFile&v=9)
+- [NIS2: Ein Mindestniveau für die IT-Sicherheit in Europa (PDF)](/files/securepoint-nis2-whitepaper.pdf)
+- [Richtlinie über Maßnahmen für ein hohes gemeinsames Cybersicherheitsniveau in der Union (PDF)](/files/securepoint-webinar-praesentation-nis2-richtlinie.pdf)
+- [IT-Notfallmanagement (PDF)](/files/ADLON_Leitfaden_Notfallmanagement.pdf)
+- [NIS2: Ihr Wegweiser zur Compliance. (PDF)](/files/An9S89GHrs68KZlxs9mttkO7p7_B46JuY7pwXPffTwqhwctqIRME6Romx3wMELDTlydb-THIJQD1ZLkT53zeEQL-18yBAmxOxH3i5sQUD4upS_sXuXZ7i90kmXDGdA.pdf)
+- [Gesetzentwurf (PDF)](/files/nis2-regierungsentwurf.pdf)
+
+
+
+## Aktueller Stand
+
+Stand: 5.12.2024
+![Umsetzungsstand](/img/Umsetzungsstand.png)
 
 ## Was ist das Eigentlich?
 
