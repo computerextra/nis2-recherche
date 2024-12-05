@@ -1,17 +1,14 @@
 # NIS 2 Richtlinie
 
-### Bearbeitungsstand
 > [!NOTE]
 > Erstellt: 07.10.2024\
 > Letztes Update: 05.12.2024
-
 
 ![NIS2 Beispielbild](/img/nis.png)
 
 ## Inhalt
 
 - [NIS 2 Richtlinie](#nis-2-richtlinie)
-    - [Bearbeitungsstand](#bearbeitungsstand)
   - [Inhalt](#inhalt)
   - [Sidenotes](#sidenotes)
     - [Ersteller](#ersteller)
@@ -91,27 +88,26 @@
   - [Quellen](#quellen)
 
 ## Sidenotes
+
 ### Ersteller
+
 > [!IMPORTANT]
 > Autor: Johannes Kirchner\
 > Firma: Computer Extra GmbH\
 > E-Mail: [johannes.kirchner@computer-extra.de](mailto:johannes.kirchner@computer-extra.de)
 
-
-
 ### Changelog
+
 > [!TIP]
 > Changelog:
->  5.12.2024: 
->   - Neue PDF hinzugefügt (NIS2: Ihr Wegweiser zur Compliance)
->   - Aktuellen Umsetzungsstand hinzugefügt.
->   - Neue PDF hinzugefügt (Gesetzentwurf)
->   - Anordnung des Menüs angepasst.
->   - Neuen Absatz für den Gesetzesentwurf erstellt
->   - Quellen angepasst
->     
-
-
+> 5.12.2024:
+>
+> - Neue PDF hinzugefügt (NIS2: Ihr Wegweiser zur Compliance)
+> - Aktuellen Umsetzungsstand hinzugefügt.
+> - Neue PDF hinzugefügt (Gesetzentwurf)
+> - Anordnung des Menüs angepasst.
+> - Neuen Absatz für den Gesetzesentwurf erstellt
+> - Quellen angepasst
 
 ## Downloads / Links
 
@@ -124,8 +120,6 @@
 - [IT-Notfallmanagement (PDF)](/files/ADLON_Leitfaden_Notfallmanagement.pdf)
 - [NIS2: Ihr Wegweiser zur Compliance. (PDF)](/files/An9S89GHrs68KZlxs9mttkO7p7_B46JuY7pwXPffTwqhwctqIRME6Romx3wMELDTlydb-THIJQD1ZLkT53zeEQL-18yBAmxOxH3i5sQUD4upS_sXuXZ7i90kmXDGdA.pdf)
 - [Gesetzentwurf (PDF)](/files/nis2-regierungsentwurf.pdf)
-
-
 
 ## Aktueller Stand
 
@@ -713,6 +707,7 @@ Die neue EU-Richtlinie NIS2 fördert und fordert Cybersicherheit auf breiter Ebe
 3. Ein solides und gleichzeitig pragmatisches Risikomanagement einsetzen. Regelmäßige Risikoanalysen durchführen, dabei auf die Dokumentation achten.
 
 ## Ein Laienhafter Versuch
+
 Hier werden ich versuchen den aktuellen Gesetzesentwurf zu verstehen und zusammenzufassen.
 
 Das kann ein wenig dauern, das Gesetz ist ein Buch mit 208 Seiten
@@ -730,5 +725,5 @@ Das kann ein wenig dauern, das Gesetz ist ein Buch mit 208 Seiten
 - [https://adlon.de/services/nis2-umsetzung/](https://adlon.de/services/nis2-umsetzung/)
 - [https://adlon.de/leitfaden-notfallmanagement/](https://adlon.de/leitfaden-notfallmanagement/)
 - [https://www.bmi.bund.de/SharedDocs/gesetzgebungsverfahren/DE/CI1/nis2umsucg.html](https://www.bmi.bund.de/SharedDocs/gesetzgebungsverfahren/DE/CI1/nis2umsucg.html)
-- [https://www.bmi.bund.de/SharedDocs/gesetzgebungsverfahren/DE/Downloads/kabinettsfassung/CI1/nis2-regierungsentwurf.pdf?__blob=publicationFile&v=2](https://www.bmi.bund.de/SharedDocs/gesetzgebungsverfahren/DE/Downloads/kabinettsfassung/CI1/nis2-regierungsentwurf.pdf?__blob=publicationFile&v=2)
+- [https://www.bmi.bund.de/SharedDocs/gesetzgebungsverfahren/DE/Downloads/kabinettsfassung/CI1/nis2-regierungsentwurf.pdf?\_\_blob=publicationFile&v=2](https://www.bmi.bund.de/SharedDocs/gesetzgebungsverfahren/DE/Downloads/kabinettsfassung/CI1/nis2-regierungsentwurf.pdf?__blob=publicationFile&v=2)
 - [https://www.bsi.bund.de/DE/Das-BSI/Auftrag/Gesetze-und-Verordnungen/NIS-Richtlinien/nis-richtlinie_node.html](https://www.bsi.bund.de/DE/Das-BSI/Auftrag/Gesetze-und-Verordnungen/NIS-Richtlinien/nis-richtlinie_node.html)
