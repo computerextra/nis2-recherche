@@ -100,6 +100,11 @@
 
 > [!TIP]
 > Changelog:
+> 17.01.2025:
+>
+> - Neue PDF hinzugefügt (Präsentation v. Synxon)
+> - Link zu dem Webinar
+>
 > 5.12.2024:
 >
 > - Neue PDF hinzugefügt (NIS2: Ihr Wegweiser zur Compliance)
@@ -120,6 +125,8 @@
 - [IT-Notfallmanagement (PDF)](/files/ADLON_Leitfaden_Notfallmanagement.pdf)
 - [NIS2: Ihr Wegweiser zur Compliance. (PDF)](/files/An9S89GHrs68KZlxs9mttkO7p7_B46JuY7pwXPffTwqhwctqIRME6Romx3wMELDTlydb-THIJQD1ZLkT53zeEQL-18yBAmxOxH3i5sQUD4upS_sXuXZ7i90kmXDGdA.pdf)
 - [Gesetzentwurf (PDF)](/files/nis2-regierungsentwurf.pdf)
+- [Präsi v. Synaxon](/files/2025-01-16%20%20NIS2%20-Teaser%20.pdf)
+- [Webinar zur Präsi v. Synaxon](https://0vlabwle6f.ufs.sh/f/g75ZxQSSuMCYDjzgf9pmLcskWjwy435rAlSfoaOJb7BngFU0)
 
 ## Aktueller Stand
 
