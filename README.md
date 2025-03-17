@@ -2,13 +2,20 @@
 
 > [!NOTE]
 > Erstellt: 07.10.2024\
-> Letztes Update: 05.12.2024
+> Letztes Update: 17.03.2025
 
 ![NIS2 Beispielbild](/img/nis.png)
+
+## TL;DR
+
+So wie es aktuell aussieht, werden wir als Firma das umsetzen müssen, da einige unserer Kunden dazu gezwungen werden.
+Wir müssen uns jedoch nicht registrieren, da wir nicht direkt unter diese Richtlinie fallen werden.
+Jedoch wird es wahrscheinlich darauf hinauslaufen, dass unsere Kunden einen Nachweis darüber benötigen, das wir diese Richtlinie umsetzen, damit wir auch weiterhin als deren IT-Dienstleister auftreten können.
 
 ## Inhalt
 
 - [NIS 2 Richtlinie](#nis-2-richtlinie)
+  - [TL;DR](#tldr)
   - [Inhalt](#inhalt)
   - [Sidenotes](#sidenotes)
     - [Ersteller](#ersteller)
@@ -100,12 +107,16 @@
 
 > [!TIP]
 > Changelog:
-> 17.01.2025:
+> 17.03.2025:
+>
+> - [TL;DR Sektion hinzugefügt.](#tldr)
+>
+>   17.01.2025:
 >
 > - Neue PDF hinzugefügt (Präsentation v. Synxon)
 > - Link zu dem Webinar
 >
-> 5.12.2024:
+>   5.12.2024:
 >
 > - Neue PDF hinzugefügt (NIS2: Ihr Wegweiser zur Compliance)
 > - Aktuellen Umsetzungsstand hinzugefügt.
@@ -137,7 +148,9 @@ Stand: 5.12.2024
 
 ### Was ist NIS-2?
 
-NIS-2 beinhaltet Sicherheitsmaßnahmen und Meldepflichten für Unternehmen in kritischen Sektoren.
+NIS-2 beinhaltet Sicherheitsmaßnahmen und Meldepflichten für Unternehmen in
+kritischen Sektoren.
+
 Es gibt 18 Sektoren, die unter diese Regelung fallen.
 
 ### Wann tritt NIS-2 in Kraft?
